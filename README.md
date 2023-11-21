@@ -2,10 +2,12 @@
 
 Sou Técnico em Informática e entudante de Engenharia de Software.
 
-- Amante de estudos e tecnologia 💻📚
-- Amante de gatos e coelhos 🐱🐰
+- 📚 Amante de estudos e tecnologia 💻
+- 🐱 Amante de gatos e coelhos 🐰
 
-[Linkedinln] 
+Você pode me encontar em:
+
+  LinkedIn - [ Iumy Pimentel ](https://www.linkedin.com/in/iumy-pimentel/)
 
 <!--
 **Iuky-O/Iuky-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
