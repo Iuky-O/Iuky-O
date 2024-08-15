@@ -5,9 +5,11 @@ Sou Técnico em Informática e entudante de Engenharia de Software.
 - 📚 Amante de estudos e tecnologia 💻
 - 🐱 Amante de gatos e coelhos 🐰
 
-Você pode me encontar em:
+### Você pode me encontar em:
 
   LinkedIn - [ Iumy Pimentel ](https://www.linkedin.com/in/iumy-pimentel/)
+  
+  Email - [ Iumy ](pimentel.iumy@gmail.com)
 
 <!--
 **Iuky-O/Iuky-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,12 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Conecte-se
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iumy-pimentel/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iuky-O)
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
