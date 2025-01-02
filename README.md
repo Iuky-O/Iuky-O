@@ -1,11 +1,12 @@
-### Olá! Sou a Iumy! 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Iumy and my nickname is "Iuky-O"!
 
-Sou Técnico em Informática e entudante de Engenharia de Software.
+I am a Computer Technician and Software Engineering student.
 
-- 📚 Amante de estudos e tecnologia 💻
-- 🐱 Amante de gatos e coelhos 🐰
+- 📚 Lover of studies and technology 💻
+- 🐱 Cat and rabbit lover🐰
 
-### Você pode me encontar em:
+### You can find me at:
 
   LinkedIn - [ Iumy Pimentel ](https://www.linkedin.com/in/iumy-pimentel/)
   
@@ -26,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Languages ​​and Technologies:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,8 +42,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
 
-### Mais
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Iuky-O&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iuky-O&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div>
+<a href="https://github.com/Iuky-O">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iuky-O&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Iuky-O&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
