@@ -45,6 +45,12 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
 
+<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,c,cpp,java,mysql,mongodb)](https://skillicons.dev)
+-->
+
 <div>
 <a href="https://github.com/Iuky-O">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iuky-O&layout=compact&langs_count=7&theme=dracula"/>
