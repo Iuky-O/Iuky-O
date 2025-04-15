@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,js,c,cpp,java,mysql,mongodb)](https://skillicons.dev)
+
+
+https://github.com/tandpfun/skill-icons
+https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 -->
 
 <div>
